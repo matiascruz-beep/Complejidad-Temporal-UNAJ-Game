@@ -6,7 +6,7 @@ Conquista Planetaria es un juego de estrategia en el que deberás expandir tu im
 Este proyecto fue desarrollado aplicando conceptos fundamentales de Programación Orientada a Objetos (POO), utilizando clases, objetos, colas, y estructuras de datos que permiten modelar el comportamiento de cada planeta, nave y batalla espacial.
 
 🛠️ Tecnologías y herramientas
-Lenguaje: Python / Java / C# (aclará el que usaste)
+Lenguaje: c#
 Programación Orientada a Objetos (POO)
 Estructuras de datos: Colas, Listas, Mapas, etc.
 Lógica de turnos y gestión de eventos
